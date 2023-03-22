@@ -8,23 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am a mathematics and data science student from [University of Nottingham Malaysia](https://www.nottingham.edu.my/), graduating in 2024 with a **First Class** honours degree.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+I am deeply passionate about research and aspire to become a dedicated researcher in the future. I am constantly seeking out research opportunities such as **Research Assistant** and **Visting Student**. Upon completing my undergraduate studies in 2024, I would like to further my academic journey by pursuing an **MPhil or PhD** degree.
+
+I have a wide research interest, ranging from data science, machine learning and NLP. Besides these topics, I also conduct research in applied linear algebra, cryptography and financial mathematics. You can find more about my research experience in [research](research).
+
+Beside research, I am also active in various extra-curriculum activities. In particular, I am the founder of Maths Society in UNMC, and I am also a member of the Chinese Association for Cryptologic Research (CACR) and Quantitative Investment and Data Science Society at HKU. For more details, please check out my [CV](cv)

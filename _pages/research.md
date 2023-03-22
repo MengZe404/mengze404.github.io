@@ -6,15 +6,18 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-My academic research falls into two main areas: Statistical Machine Learning and Data Scienlce in Finance, with 
-a focus on Financial Time-Series Analysis and Risk Analysis. 
-I am particularly interested in using advanced mathematical and computational techniques to analyse
-and model financial data, with the goal of better understanding and predicting market trends and risks. 
+My research interests fall into two main areas: Machine Learning and Data Science, with various topics such as:
+- Federated Learning
+- NLP (Semantic Analysis and Personalization)
+- Time-Series Forecasting with Neural Network
+- Statistical Machine Learning (heterogeneity diagnostic)
+- 
+I am interested in both theoretical studies and practical applications.
 
-My other research includes applied linear mathematics in cryptography and mathematics education system.
+My other research includes applied linear algebra, cryptography and mathematics education. Currently, I am working as a Research Assistant at UNMC, designing algorithmic mathematics assessment for
+undergraduate mathematics students. 
 
-Currently, I am working as a Research Assistant at UNMC, designing algorithmatic mathematics assessment for
-undergraduate mathematics students.
+In the meantime, I have been invited by the school to give several research-sharing talks, and my work and efforts have been well-recognized by all staff and students.
 
 <nbsp>
 
